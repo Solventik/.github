@@ -9,7 +9,7 @@ Nuestra misión es ayudar a las empresas a resolver sus desafíos tecnológicos 
 ## 🌐 Sitio web
 
 Visita nuestra página web para más información sobre nuestros productos y servicios:  
-[www.solventik.com](https://www.solventik.com)
+[www.solventik.com](https://www.solventik.pe)
 
 ## 🛠️ Servicios
 
