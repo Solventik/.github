@@ -28,7 +28,7 @@ Este repositorio contiene el código fuente y documentación de uno de nuestros 
 
 ## 💻 Tecnologías Usadas
 
-- **Frontend**: React, HTML5, CSS3
-- **Backend**: Node.js, Express.js
+- **Frontend**: Angular, React, Astro
+- **Backend**: C#, Python, Java
 - **Base de Datos**: MongoDB, PostgreSQL
 - **Otros**: Docker, CI/CD (GitHub Actions)
